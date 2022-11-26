@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jonathan Cornic</h1>
-<h3 align="center">Road to Developer</h3>
+<h1 align="center">Salut 👋, Je suis Jonathan Cornic</h1>
+<h2 align="center">Nouveau joueur dans la partie, je suis en route pour devenir développeur web
+<h3 align="center">Chaque jour, un pas de plus sur le chemin</h3>
 
-<h3 align="center">@From Beginner To Expert, Let's Go !</h3>
+<h3 align="center">Les principales forces de l'etre humain sont ses capacités à<br>Ne pas abandonner<br>Ne pas avoir peur de l'échec<br>Et croire en ses reves</h3>
 <p align="left">
 </p>
 
