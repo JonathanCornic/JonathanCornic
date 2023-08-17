@@ -24,6 +24,6 @@ Je suis Jonathan Cornic, un développeur web passionné par la création d'appli
 
 Je suis ouvert aux opportunités de collaboration et de travail. Vous pouvez me contacter par e-mail à [cornicjonathan@gmail.com] ou via mon profil LinkedIn à [https://www.linkedin.com/in/jonathan-cornic-024607262/].
 
-N'hésitez pas à consulter mon portfolio à [bientot disponible] pour en savoir plus sur mes projets antérieurs et mes compétences en développement web.
+N'hésitez pas à consulter mon portfolio à [https://jonathan-cornic.com] pour en savoir plus sur mes projets antérieurs et mes compétences en développement web.
 
 Je suis impatient de contribuer à de nouveaux projets passionnants et de mettre en pratique mes compétences en HTML, JavaScript et React pour créer des expériences web exceptionnelles.
